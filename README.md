@@ -3,13 +3,12 @@ Materials, highlights, tests, notes and everything related to my Symfony Certifi
 
 
 # Contents
-
 ## PHP and Web Security
 
 * Object Oriented Programming
 * Namespaces
 * Interfaces
-* Anonymous functions and closures
+* [Anonymous functions and closures](doc/functions.md)
 * Abstract classes
 * Exception and error handling
 * Traits
@@ -19,15 +18,15 @@ Materials, highlights, tests, notes and everything related to my Symfony Certifi
 
 ## HTTP
 
-*Client / Server interaction
-*Status codes
-*HTTP request
-*HTTP response
-*HTTP methods
-*Cookies
-*Caching
-*Content negotiation
-*Language detection
+* Client / Server interaction
+* Status codes
+* HTTP request
+* HTTP response
+* HTTP methods
+* Cookies
+* Caching
+* Content negotiation
+* Language detection
 
 ## Symfony Architecture
 
@@ -175,6 +174,7 @@ Materials, highlights, tests, notes and everything related to my Symfony Certifi
 * Edge Side Includes
 
 ## Console
+
 * Built-in commands
 * Custom commands
 * Configuration
