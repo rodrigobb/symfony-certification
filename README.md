@@ -1,6 +1,7 @@
 # symfony-certification
 Materials, highlights, tests, notes and everything related to my Symfony Certification
 
+Lots of KUDOs and "inspirational" credits to [jmolivas](https://github.com/jmolivas) for building [https://github.com/jmolivas/symfony-certification-guide](https://github.com/jmolivas/symfony-certification-guide)
 
 # Contents
 ## PHP and Web Security
