@@ -6,7 +6,6 @@
 # Snippets 
 
 * [Traits precedence](../src/snippets/traits_precedence.php)
-* [Traist requirements (works only in HHVM)](../src/snippets/traits_require.php)
 
 # Resources
 
@@ -19,4 +18,6 @@ traits, inheritance or composition:
 
 # Articles
 
+* [Ross Tuck - How I use traits](http://rosstuck.com/how-i-use-traits/)
 * [Traits: uses, pros/cons, etc.](http://culttt.com/2014/06/25/php-traits/)
+* [Benjamin Eberlei against traits](http://www.whitewashing.de/2013/04/12/traits_are_static_access.html)
