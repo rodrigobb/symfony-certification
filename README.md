@@ -12,7 +12,7 @@ Lots of KUDOs and "inspirational" credits to [jmolivas](https://github.com/jmoli
 * [Anonymous functions and closures](doc/functions.md)
 * Abstract classes
 * Exception and error handling
-* Traits
+* [Traits](doc/traits.md)
 * PHP extensions
 * SPL
 * Web security (XSS, CSRF, etc.)
