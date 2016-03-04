@@ -6,6 +6,7 @@
 # Snippets 
 
 * [Traits precedence](../src/snippets/traits_precedence.php)
+* [Traits constructor](../src/snippets/traits_constructor.php)
 
 # Resources
 
