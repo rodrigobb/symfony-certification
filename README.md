@@ -8,7 +8,7 @@ Lots of KUDOs and "inspirational" credits to [jmolivas](https://github.com/jmoli
 
 * Object Oriented Programming
 * Namespaces
-* Interfaces
+* [Interfaces](./doc/interfaces.md)
 * [Anonymous functions and closures](doc/functions.md)
 * Abstract classes
 * Exception and error handling
@@ -149,7 +149,7 @@ Lots of KUDOs and "inspirational" credits to [jmolivas](https://github.com/jmoli
 * Semantic configuration
 * [Factories](./doc/factories.md)
 * Compiler passes
-* Services autowiring
+* [Services autowiring](http://symfony.com/doc/current/components/dependency_injection/autowiring.html)
 
 ## Security
 

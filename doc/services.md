@@ -11,6 +11,7 @@
 # Resources
 
 * See [factories](./factories.md) section for service factories
+* [Public/private services, Aliasing, decorating, deprecating services](http://symfony.com/doc/current/components/dependency_injection/advanced.html)
 
 # Questions
 
