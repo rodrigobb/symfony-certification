@@ -14,6 +14,7 @@ traits, inheritance or composition:
 
 * [Traits vs interface](http://stackoverflow.com/a/9205347/2711062)
 * [Horizontal reuse](https://wiki.php.net/rfc/horizontalreuse)
+* [Constructors in traits](http://stackoverflow.com/questions/12478124/how-to-overload-class-constructor-within-traits-in-php-5-4)
 
 # Questions
 
