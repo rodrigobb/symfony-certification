@@ -147,7 +147,7 @@ Lots of KUDOs and "inspirational" credits to [jmolivas](https://github.com/jmoli
 * [Services registration](./doc/services.md)
 * Tags
 * Semantic configuration
-* Factories
+* [Factories](./doc/factories.md)
 * Compiler passes
 * Services autowiring
 
