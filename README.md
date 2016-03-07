@@ -32,9 +32,7 @@ Lots of KUDOs and "inspirational" credits to [jmolivas](https://github.com/jmoli
 ## Symfony Architecture
 
 * [Symfony Standard Edition](./doc/sse.md)
-* License:
- * Core with [MIT License](http://symfony.com/doc/current/contributing/code/license.html)
- * Some bundles (included in SSE) are BSD
+* [License](./doc/license.md)
 * Components
 * Bundles
 * Bridges
