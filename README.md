@@ -33,8 +33,8 @@ Lots of KUDOs and "inspirational" credits to [jmolivas](https://github.com/jmoli
 
 * [Symfony Standard Edition](./doc/sse.md)
 * License:
-** Core with [MIT License][http://symfony.com/doc/current/contributing/code/license.html)
-** Some bundles (included in SSE) are BSD
+ * Core with [MIT License][http://symfony.com/doc/current/contributing/code/license.html)
+ * Some bundles (included in SSE) are BSD
 * Components
 * Bundles
 * Bridges
