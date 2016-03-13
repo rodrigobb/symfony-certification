@@ -25,7 +25,7 @@ Lots of KUDOs and "inspirational" credits to [jmolivas](https://github.com/jmoli
 * HTTP response
 * HTTP methods
 * Cookies
-* Caching
+* [Caching](doc/http_cache.md)
 * Content negotiation
 * Language detection
 
