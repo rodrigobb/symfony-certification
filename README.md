@@ -117,9 +117,10 @@ Lots of KUDOs and "inspirational" credits to [jmolivas](https://github.com/jmoli
 
 ## Forms
 
-* Forms creation
+* [Forms creation](http://symfony.com/doc/current/book/forms.html)
 * Forms handling
 * Form types
+  * [Collection](http://symfony.com/doc/current/cookbook/form/form_collections.html)
 * Forms rendering with Twig
 * Forms theming
 * CSRF protection
