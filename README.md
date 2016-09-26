@@ -164,7 +164,7 @@ Lots of KUDOs and "inspirational" credits to [jmolivas](https://github.com/jmoli
 * Roles
 * Access Control Rules
 * Guard authenticators
-* Voters and voting strategies
+* [Voters and voting strategies](./doc/voters.md)
 
 ## HTTP Caching
 
