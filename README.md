@@ -188,7 +188,7 @@ Lots of KUDOs and "inspirational" credits to [jmolivas](https://github.com/jmoli
 
 ## Automated Tests
 
-* Unit tests with PHPUnit
+* [Unit tests with PHPUnit](doc/unit_tests_with_phpunit.md)
 * Functional tests with PHPUnit
 * Client object
 * Crawler object
