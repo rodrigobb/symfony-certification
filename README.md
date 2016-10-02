@@ -15,7 +15,7 @@ Lots of KUDOs and "inspirational" credits to [jmolivas](https://github.com/jmoli
 * [Traits](doc/traits.md)
 * PHP extensions
 * SPL
-* Web security (XSS, CSRF, etc.)
+* [Web security (XSS, CSRF, etc.)](doc/web_security.md)
 
 ## HTTP
 
