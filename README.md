@@ -209,6 +209,13 @@ Lots of KUDOs and "inspirational" credits to [jmolivas](https://github.com/jmoli
 * Web Profiler and Web Debug Toolbar
 * Internationalization and localization
 
+# Resources
+
+* Certification - Exam CLI
+  - https://github.com/certificationy/certificationy
+  - https://vincent.composieux.fr/article/certificationy-a-cli-tool-to-train-on-symfony-certification
+  
+
 # Exam
 
 * [Post about exams, with examples](http://www.craftitonline.com/2014/05/the-symfony2-exam-drill-unofficial/)
