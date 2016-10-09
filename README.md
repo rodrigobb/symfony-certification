@@ -150,7 +150,7 @@ Lots of KUDOs and "inspirational" credits to [jmolivas](https://github.com/jmoli
 * Built-in services
 * Configuration parameters
 * [Services registration](./doc/services.md)
-* Tags
+* [Tags](./doc/tags.md)
 * Semantic configuration
 * [Factories](./doc/factories.md)
 * Compiler passes
