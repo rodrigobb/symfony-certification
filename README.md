@@ -6,16 +6,20 @@ Lots of KUDOs and "inspirational" credits to [jmolivas](https://github.com/jmoli
 # Contents
 ## PHP and Web Security
 
-* Object Oriented Programming
+* [Object Oriented Programming](./doc/oop.md)
 * Namespaces
 * [Interfaces](./doc/interfaces.md)
-* [Anonymous functions and closures](doc/functions.md)
+* [Anonymous functions and closures](./doc/functions.md)
 * Abstract classes
 * Exception and error handling
-* [Traits](doc/traits.md)
+* [Traits](./doc/traits.md)
 * PHP extensions
 * SPL
-* [Web security (XSS, CSRF, etc.)](doc/web_security.md)
+* [Web security (XSS, CSRF, etc.)](./doc/web_security.md)
+
+### Resources
+
+* PHP Sandbox online - http://sandbox.onlinephpfunctions.com
 
 ## HTTP
 
