@@ -6,16 +6,16 @@ Lots of KUDOs and "inspirational" credits to [jmolivas](https://github.com/jmoli
 # Contents
 ## PHP and Web Security
 
-* [Object Oriented Programming](./doc/oop.md)
+* [Object Oriented Programming](./doc/php_and_web_security/oop.md)
 * Namespaces
-* [Interfaces](./doc/interfaces.md)
-* [Anonymous functions and closures](./doc/functions.md)
+* [Interfaces](./doc/php_and_web_security/interfaces.md)
+* [Anonymous functions and closures](./doc/php_and_web_security/functions.md)
 * Abstract classes
 * Exception and error handling
-* [Traits](./doc/traits.md)
+* [Traits](./doc/php_and_web_security/traits.md)
 * PHP extensions
-* SPL
-* [Web security (XSS, CSRF, etc.)](./doc/web_security.md)
+* [SPL](doc/php_and_web_security/spl.md)
+* [Web security (XSS, CSRF, etc.)](./doc/php_and_web_security/web_security.md)
 
 ### Resources
 
@@ -29,26 +29,26 @@ Lots of KUDOs and "inspirational" credits to [jmolivas](https://github.com/jmoli
 * HTTP response
 * HTTP methods
 * Cookies
-* [Caching](doc/http_cache.md)
+* [Caching](doc/http/http_cache.md)
 * Content negotiation
 * Language detection
 
 ## Symfony Architecture
 
-* [Symfony Standard Edition](./doc/sse.md)
-* [License](./doc/license.md)
-* Components
-* Bundles
-* Bridges
+* [Symfony Standard Edition](./doc/architecture/sse.md)
+* [License](./doc/architecture/license.md)
+* [Components](http://symfony.com/components)
+* [Bundles](doc/architecture/bundles.md)
+* [Bridges](http://stackoverflow.com/questions/11888522/what-are-symfony-bridges-bundles-and-vendor)
 * Configuration
 * Code organization
 * Request handling
 * Exception handling
 * Event dispatcher and kernel events
-* Official best practices
-* Release management
-* Backward compatibility promise
-* Deprecations best practices
+* [Official best practices](doc/architecture/best_practices.md)
+* [Release management](http://symfony.com/doc/current/contributing/community/releases.html)
+* [Backward compatibility promise](http://symfony.com/doc/current/contributing/code/bc.html)
+* [Deprecations best practices](doc/architecture/deprecation_best_practices.md)
 
 ## Standardization
 
@@ -149,10 +149,10 @@ Lots of KUDOs and "inspirational" credits to [jmolivas](https://github.com/jmoli
 * Service container
 * Built-in services
 * Configuration parameters
-* [Services registration](./doc/services.md)
-* [Tags](./doc/tags.md)
+* [Services registration](./doc/dependency_injection/services.md)
+* [Tags](./doc/dependency_injection/tags.md)
 * Semantic configuration
-* [Factories](./doc/factories.md)
+* [Factories](./doc/dependency_injection/factories.md)
 * Compiler passes
 * [Services autowiring](http://symfony.com/doc/current/components/dependency_injection/autowiring.html)
 
@@ -168,7 +168,7 @@ Lots of KUDOs and "inspirational" credits to [jmolivas](https://github.com/jmoli
 * Roles
 * Access Control Rules
 * Guard authenticators
-* [Voters and voting strategies](./doc/voters.md)
+* [Voters and voting strategies](./doc/security/voters.md)
 
 ## HTTP Caching
 
@@ -192,7 +192,7 @@ Lots of KUDOs and "inspirational" credits to [jmolivas](https://github.com/jmoli
 
 ## Automated Tests
 
-* [Unit tests with PHPUnit](doc/unit_tests_with_phpunit.md)
+* [Unit tests with PHPUnit](doc/automated_tests/unit_tests_with_phpunit.md)
 * Functional tests with PHPUnit
 * Client object
 * Crawler object
