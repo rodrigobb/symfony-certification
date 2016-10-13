@@ -3,4 +3,4 @@
 
 # Article
 * [Wikipedia article about content negotiation](https://en.wikipedia.org/wiki/Content_negotiation)
-* [http://symfony.com/doc/3.0/components/http_foundation/introduction.html#accessing-accept-headers-data](http://symfony.com/doc/3.0/components/http_foundation/introduction.html#accessing-accept-headers-data)
+* [Accessing Accept-* Headers Data](http://symfony.com/doc/3.0/components/http_foundation.html#accessing-accept-headers-data)
