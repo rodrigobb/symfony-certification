@@ -7,13 +7,13 @@ Lots of KUDOs and "inspirational" credits to [jmolivas](https://github.com/jmoli
 ## PHP and Web Security
 
 * [Object Oriented Programming](./doc/php_and_web_security/oop.md)
-* Namespaces
+* [Namespaces](doc/php_and_web_security/namespaces.md)
 * [Interfaces](./doc/php_and_web_security/interfaces.md)
 * [Anonymous functions and closures](./doc/php_and_web_security/functions.md)
-* Abstract classes
-* Exception and error handling
+* [Abstract classes](doc/php_and_web_security/abstract.md)
+* [Exception and error handling](doc/php_and_web_security/exceptions.md)
 * [Traits](./doc/php_and_web_security/traits.md)
-* PHP extensions
+* [PHP extensions](doc/php_and_web_security/extensions.md)
 * [SPL](doc/php_and_web_security/spl.md)
 * [Web security (XSS, CSRF, etc.)](./doc/php_and_web_security/web_security.md)
 
