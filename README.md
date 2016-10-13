@@ -23,15 +23,15 @@ Lots of KUDOs and "inspirational" credits to [jmolivas](https://github.com/jmoli
 
 ## HTTP
 
-* Client / Server interaction
-* Status codes
-* HTTP request
-* HTTP response
-* HTTP methods
-* Cookies
+* [Client / Server interaction](doc/http/client_server_interaction.md)
+* [Status codes](https://en.wikipedia.org/wiki/List_of_HTTP_status_codes)
+* [HTTP request](http://symfony.com/doc/current/components/http_foundation.html#request)
+* [HTTP response](http://symfony.com/doc/current/components/http_foundation.html#response)
+* [HTTP methods](https://www.w3.org/Protocols/rfc2616/rfc2616-sec9.html)
+* [Cookies](doc/http/cookies.md)
 * [Caching](doc/http/http_cache.md)
-* Content negotiation
-* Language detection
+* [Content negotiation](doc/http/content_negotiation_.md)
+* [Language detection](doc/http/language_detection.md)
 
 ## Symfony Architecture
 
