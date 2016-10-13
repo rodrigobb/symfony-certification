@@ -30,7 +30,7 @@ Lots of KUDOs and "inspirational" credits to [jmolivas](https://github.com/jmoli
 * [HTTP methods](https://www.w3.org/Protocols/rfc2616/rfc2616-sec9.html)
 * [Cookies](doc/http/cookies.md)
 * [Caching](doc/http/http_cache.md)
-* [Content negotiation](doc/http/content_negotiation_.md)
+* [Content negotiation](doc/http/content_negotiation.md)
 * [Language detection](doc/http/language_detection.md)
 
 ## Symfony Architecture
