@@ -1,6 +1,7 @@
 # Web security
 ## Doc
  * [Web security with php](http://php.net/manual/en/security.php)
+ * [PHP Server Security Measures](http://edward-designer.com/web/security-php-5-3-certification-exam-series-6/)
 
 ## Articles
 
