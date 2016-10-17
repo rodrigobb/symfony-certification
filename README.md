@@ -223,3 +223,4 @@ Lots of KUDOs and "inspirational" credits to [jmolivas](https://github.com/jmoli
 # Exam
 
 * [Post about exams, with examples](http://www.craftitonline.com/2014/05/the-symfony2-exam-drill-unofficial/)
+* [Post and takeaways about PHP 5.3 Zend Certification](http://edward-designer.com/web/passing-php-5-3-certification-exam/)
