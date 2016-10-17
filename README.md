@@ -42,7 +42,7 @@ Lots of KUDOs and "inspirational" credits to [jmolivas](https://github.com/jmoli
 * [Bridges](http://stackoverflow.com/questions/11888522/what-are-symfony-bridges-bundles-and-vendor)
 * Configuration
 * Code organization
-* Request handling
+* [Request handling](http://symfony.com/doc/current/components/http_kernel.html)
 * Exception handling
 * Event dispatcher and kernel events
 * [Official best practices](doc/architecture/best_practices.md)
@@ -99,7 +99,10 @@ Lots of KUDOs and "inspirational" credits to [jmolivas](https://github.com/jmoli
 * Trigger redirects
 * Special internal routing attributes
 * Domain name matching
-* Conditional request matching
+* Conditional 
+
+
+matching
 * HTTP methods matching
 * User's locale guessing
 * Router debugging
