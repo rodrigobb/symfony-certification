@@ -221,7 +221,7 @@ matching
 * Certification - Exam CLI
   - https://github.com/certificationy/certificationy
   - https://vincent.composieux.fr/article/certificationy-a-cli-tool-to-train-on-symfony-certification
-  
+* [Symfony CheatSheet](http://www.symfony2cheatsheet.com/)
 
 # Exam
 
