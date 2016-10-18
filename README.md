@@ -42,7 +42,7 @@ Lots of KUDOs and "inspirational" credits to [jmolivas](https://github.com/jmoli
 * [Bridges](http://stackoverflow.com/questions/11888522/what-are-symfony-bridges-bundles-and-vendor)
 * Configuration
 * Code organization
-* [Request handling](http://symfony.com/doc/current/components/http_kernel.html)
+* [Request handling](doc/architecture/request.md)
 * Exception handling
 * Event dispatcher and kernel events
 * [Official best practices](doc/architecture/best_practices.md)
