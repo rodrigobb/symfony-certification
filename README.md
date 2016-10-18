@@ -114,7 +114,7 @@ Lots of KUDOs and "inspirational" credits to [jmolivas](https://github.com/jmoli
 * Loops and conditions
 * URLs generation
 * Controller rendering
-* Translations and pluralization
+* [Translations and pluralization](http://symfony.com/doc/current/translation.html)
 * String interpolation
 * Assets management
 * Debugging variables
@@ -172,34 +172,34 @@ Lots of KUDOs and "inspirational" credits to [jmolivas](https://github.com/jmoli
 
 ## HTTP Caching
 
-* Cache types (browser, proxies and reverse-proxies)
-* Expiration (Expires, Cache-Control)
-* Validation (ETag, Last-Modified)
+* [Cache types (browser, proxies and reverse-proxies)](http://symfony.com/doc/current/http_cache.html)
+* [Expiration (Expires, Cache-Control)](http://symfony.com/doc/current/http_cache/expiration.html)
+* [Validation (ETag, Last-Modified)](http://symfony.com/doc/current/http_cache/validation.html)
 * Client side caching
 * Server side caching
-* Edge Side Includes
+* [Edge Side Includes](http://symfony.com/doc/current/http_cache/esi.html)
 
 ## Console
 
-* Built-in commands
+* [Built-in commands](http://symfony.com/doc/current/components/console/usage.html#built-in-commands)
 * Custom commands
 * Configuration
-* Options and arguments
+* [Options and arguments](http://symfony.com/doc/current/console/input.html)
 * Input and Output objects
 * Built-in helpers
 * Console events
-* Verbosity levels
+* [Verbosity levels](http://symfony.com/doc/current/console/verbosity.html)
 
 ## Automated Tests
 
 * [Unit tests with PHPUnit](doc/automated_tests/unit_tests_with_phpunit.md)
-* Functional tests with PHPUnit
-* Client object
-* Crawler object
-* Profile object
-* Framework objects access
+* [Functional tests with PHPUnit](http://symfony.com/doc/current/testing.html#functional-tests)
+* [Client object](http://symfony.com/doc/current/components/browser_kit.html)
+* [Crawler object](http://symfony.com/doc/current/components/dom_crawler.html)
+* [Profile object](http://symfony.com/doc/current/testing/profiling.html)
+* [Framework objects access](http://symfony.com/doc/current/testing.html#accessing-internal-objects)
 * Client configuration
-* Request and response objects introspection
+* [Request and response objects introspection](http://symfony.com/doc/current/testing.html#accessing-internal-objects)
 * PHPUnit bridge
 * Handling legacy deprecated code
 
