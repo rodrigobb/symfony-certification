@@ -92,17 +92,17 @@ Lots of KUDOs and "inspirational" credits to [jmolivas](https://github.com/jmoli
 
 ## Routing
 
-* Configuration (YAML, XML, PHP & annotations)
+* [Configuration (YAML, XML, PHP & annotations)](http://symfony.com/doc/current/routing.html#routing-examples)
 * Restrict URL parameters
 * Set default values to URL parameters
 * Generate URL parameters
-* Trigger redirects
+* [Trigger redirects](doc/routing/trigger_redirects.md)
 * Special internal routing attributes
 * Domain name matching
 * Conditional request matching
-* HTTP methods matching
-* User's locale guessing
-* Router debugging
+* [HTTP methods matching](http://symfony.com/doc/current/routing/requirements.html#adding-http-method-requirements)
+* [User's locale guessing](http://symfony.com/doc/current/translation/locale.html#the-locale-and-the-url)
+* [Router debugging](http://symfony.com/doc/current/routing/debug.html)
 
 ## Templating with Twig
 
