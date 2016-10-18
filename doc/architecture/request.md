@@ -1,6 +1,6 @@
 # Doc
 
-* [Request Handling](http://symfony.com/doc/current/components/http_kernel.html
+* [Request Handling](http://symfony.com/doc/current/components/http_kernel.html)
 
 ## Involved events list
 
