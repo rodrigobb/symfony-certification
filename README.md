@@ -42,7 +42,7 @@ Lots of KUDOs and "inspirational" credits to [jmolivas](https://github.com/jmoli
 * [Bridges](http://stackoverflow.com/questions/11888522/what-are-symfony-bridges-bundles-and-vendor)
 * Configuration
 * Code organization
-* Request handling
+* [Request handling](http://symfony.com/doc/current/components/http_kernel.html)
 * Exception handling
 * Event dispatcher and kernel events
 * [Official best practices](doc/architecture/best_practices.md)
@@ -218,8 +218,9 @@ Lots of KUDOs and "inspirational" credits to [jmolivas](https://github.com/jmoli
 * Certification - Exam CLI
   - https://github.com/certificationy/certificationy
   - https://vincent.composieux.fr/article/certificationy-a-cli-tool-to-train-on-symfony-certification
-  
+* [Symfony CheatSheet](http://www.symfony2cheatsheet.com/)
 
 # Exam
 
 * [Post about exams, with examples](http://www.craftitonline.com/2014/05/the-symfony2-exam-drill-unofficial/)
+* [Post and takeaways about PHP 5.3 Zend Certification](http://edward-designer.com/web/passing-php-5-3-certification-exam/)
