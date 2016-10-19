@@ -43,6 +43,8 @@ Name  <br />   KernelEvents Constant |  Argument passed to the listener
   * For example, sending emails.
   * For example, stats processing.
   * **only the PHP FPM server API is able to send a response to the client while the server's PHP process still performs some tasks**
+  * Can be disabled overriding the terminate method in AppKernel or in custom kernels (indeed should only be called if the kernel implements TerminableInterface).
+      * Symfony Framework Kernel **does**
 
 5. `kernel.exception`
   * Handle some type of exception and create an appropriate Response to return for the exception
@@ -78,6 +80,34 @@ interface HttpKernelInterface
 * Arguments list for the controller is obtained using *reflection* and the values are guessed using: name matching between arguments names and attributes keys, type-hinting (see ```@ParamConverter``` before). 
 
 # Snippets 
+
+## Maintenance Listenes and Controller
+
+```php
+// AppBundle/EventListener/MaintenanceListener.php
+use AppBundle\Controller\MaintenanceController;
+use Symfony\Component\HttpKernel\HttpKernelInterface;
+use Symfony\Component\HttpKernel\Event\FilterControllerEvent;
+
+class MaintenanceListener
+{
+    public function onKernelController(FilterControllerEvent $event)
+    {
+        if (HttpKernelInterface::MASTER_REQUEST === $event->getRequestType()) {
+
+            if (true === $this->maintenance) {
+                $event->setController([
+                    new MaintenanceController(),
+                    'indexAction'
+                ]);
+            }
+        }
+    }
+}
+
+Fragmento de: Raúl Fraile. “Symfony Certification”. iBooks. 
+
+```
 
 # Resources
 
