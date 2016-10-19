@@ -110,7 +110,7 @@ Lots of KUDOs and "inspirational" credits to [jmolivas](https://github.com/jmoli
 * Template inheritance
 * Global variables
 * Filters and functions
-* Template includes
+* [Template includes](doc/templating/includes.md)
 * Loops and conditions
 * URLs generation
 * Controller rendering
@@ -187,7 +187,7 @@ Lots of KUDOs and "inspirational" credits to [jmolivas](https://github.com/jmoli
 * [Options and arguments](http://symfony.com/doc/current/console/input.html)
 * Input and Output objects
 * Built-in helpers
-* Console events
+* [Console events](http://symfony.com/doc/current/components/console/events.html)
 * [Verbosity levels](http://symfony.com/doc/current/console/verbosity.html)
 
 ## Automated Tests
