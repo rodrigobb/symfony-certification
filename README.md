@@ -108,16 +108,18 @@ Lots of KUDOs and "inspirational" credits to [jmolivas](https://github.com/jmoli
 
 * Auto escaping
 * Template inheritance
-* Global variables
+* Global variables:
+    - [App variables](http://symfony.com/doc/current/templating/app_variable.html)
+    - [Adding global variables](http://symfony.com/doc/current/templating/global_variables.html)
 * Filters and functions
 * [Template includes](doc/templating/includes.md)
 * Loops and conditions
 * URLs generation
-* Controller rendering
+* [Controller rendering](http://symfony.com/doc/current/templating/embedding_controllers.html)
 * [Translations and pluralization](http://symfony.com/doc/current/translation.html)
-* String interpolation
+* [Expresions](http://twig.sensiolabs.org/doc/templates.html#expressions), including new [#{expression} String interpolation](http://twig.sensiolabs.org/doc/templates.html#string-interpolation)
 * Assets management
-* Debugging variables
+* [Debugging](http://symfony.com/doc/current/templating/debug.html) variables (```dump``` function)
 
 ## Forms
 
@@ -186,7 +188,13 @@ Lots of KUDOs and "inspirational" credits to [jmolivas](https://github.com/jmoli
 * Configuration
 * [Options and arguments](http://symfony.com/doc/current/console/input.html)
 * Input and Output objects
-* Built-in helpers
+* [Built-in helpers](http://symfony.com/doc/current/components/console/helpers/index.html)
+    * [Formatter Helper](http://symfony.com/doc/current/components/console/helpers/formatterhelper.html)
+    * [Process Helper](http://symfony.com/doc/current/components/console/helpers/processhelper.html)
+    * [Progress Bar](http://symfony.com/doc/current/components/console/helpers/progressbar.html)
+    * [Question Helper](http://symfony.com/doc/current/components/console/helpers/questionhelper.html)
+    * [Table](http://symfony.com/doc/current/components/console/helpers/table.html)
+    * [Debug Formatter Helper](http://symfony.com/doc/current/components/console/helpers/debug_formatter.html)
 * [Console events](http://symfony.com/doc/current/components/console/events.html)
 * [Verbosity levels](http://symfony.com/doc/current/console/verbosity.html)
 
